@@ -7,3 +7,6 @@ After finishing Part A, upload a video to Schoology showing your code working wi
 
 After finishing Part B, upload a video to Schoology showing your code running in the GUI window. Then make a commit to the repository saying "Part B Complete"  
 [Part B Instructions](https://docs.google.com/document/d/1nL1wkOHX4aPa09qiq7TFxVaA-TP3ZBi2q79EervLmaE/edit?usp=sharing)
+
+Grading Rubric for both part A and B together  
+[Rubric](https://docs.google.com/document/d/1s5C93VhftXlcFBpFkEMY68SujM31p5wLpSCf6q7Rv4Y/edit?usp=sharing)
